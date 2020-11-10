@@ -1,0 +1,13 @@
+C:\Users\MICHAEL NWOSU C\source\repos\Fcmb\bin\Debug\netcoreapp3.1\Fcmb.exe
+C:\Users\MICHAEL NWOSU C\source\repos\Fcmb\bin\Debug\netcoreapp3.1\Fcmb.deps.json
+C:\Users\MICHAEL NWOSU C\source\repos\Fcmb\bin\Debug\netcoreapp3.1\Fcmb.runtimeconfig.json
+C:\Users\MICHAEL NWOSU C\source\repos\Fcmb\bin\Debug\netcoreapp3.1\Fcmb.runtimeconfig.dev.json
+C:\Users\MICHAEL NWOSU C\source\repos\Fcmb\bin\Debug\netcoreapp3.1\Fcmb.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Fcmb\bin\Debug\netcoreapp3.1\Fcmb.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\Fcmb\obj\Debug\netcoreapp3.1\Fcmb.csprojAssemblyReference.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Fcmb\obj\Debug\netcoreapp3.1\Fcmb.AssemblyInfoInputs.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Fcmb\obj\Debug\netcoreapp3.1\Fcmb.AssemblyInfo.cs
+C:\Users\MICHAEL NWOSU C\source\repos\Fcmb\obj\Debug\netcoreapp3.1\Fcmb.csproj.CoreCompileInputs.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Fcmb\obj\Debug\netcoreapp3.1\Fcmb.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Fcmb\obj\Debug\netcoreapp3.1\Fcmb.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\Fcmb\obj\Debug\netcoreapp3.1\Fcmb.genruntimeconfig.cache
